@@ -2,8 +2,6 @@
 
 ## REST APIs
 
-- /v1/threads -- deprecated
-
 ### GET /v1/threads/{threadId}
 
 - Checks Accessbility of the thread
